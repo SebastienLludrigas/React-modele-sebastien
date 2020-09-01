@@ -1,6 +1,6 @@
 # React-modele-sebastien
 
-Permet de créer rapidement des projets React avec une configuration déjà prêtes.
+Permet de créer rapidement des projets React avec une configuration déjà prête.
 
 Par rapport à la version de Cécile 
 ```editorconfig
